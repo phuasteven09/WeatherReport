@@ -1,0 +1,8 @@
+/home/stevenp/Steven/WeatherReport/src/main/java/com/consumeApi/WeatherReport/service/WeatherInformationService.java
+/home/stevenp/Steven/WeatherReport/src/main/java/com/consumeApi/WeatherReport/MongoConverter.java
+/home/stevenp/Steven/WeatherReport/src/main/java/com/consumeApi/WeatherReport/WeatherReportApplication.java
+/home/stevenp/Steven/WeatherReport/src/main/java/com/consumeApi/WeatherReport/controller/WeatherInformationController.java
+/home/stevenp/Steven/WeatherReport/src/main/java/com/consumeApi/WeatherReport/repository/WeatherInformationRepository.java
+/home/stevenp/Steven/WeatherReport/src/main/java/com/consumeApi/WeatherReport/entity/WeatherLog.java
+/home/stevenp/Steven/WeatherReport/src/main/java/com/consumeApi/WeatherReport/converter/DateToTimeStampConverter.java
+/home/stevenp/Steven/WeatherReport/src/main/java/com/consumeApi/WeatherReport/service/WeatherInformationServiceImpl.java

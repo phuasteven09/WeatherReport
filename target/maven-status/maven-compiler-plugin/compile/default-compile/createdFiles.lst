@@ -1,0 +1,8 @@
+com/consumeApi/WeatherReport/repository/WeatherInformationRepository.class
+com/consumeApi/WeatherReport/service/WeatherInformationService.class
+com/consumeApi/WeatherReport/entity/WeatherLog.class
+com/consumeApi/WeatherReport/service/WeatherInformationServiceImpl.class
+com/consumeApi/WeatherReport/controller/WeatherInformationController.class
+com/consumeApi/WeatherReport/converter/DateToTimeStampConverter.class
+com/consumeApi/WeatherReport/WeatherReportApplication.class
+com/consumeApi/WeatherReport/MongoConverter.class
